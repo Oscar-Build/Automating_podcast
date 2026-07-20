@@ -27,7 +27,7 @@ Instagram: [FILL IN]
 —
 
 EstateDocPrep is a Registered & Bonded Legal Document Assistant (LDA) company in California — not attorneys. We do not give legal advice. All documents are prepared at your direction.
-LDA Registration #2025242334, County of [FILL IN], Expires [FILL IN]
+LDA Registration #2025242334, Ventura County & Los Angeles County, Expires [FILL IN]
 
 This video is for general educational purposes only and is not legal advice. Every family's situation is different.
 
@@ -57,7 +57,7 @@ Instagram: [FILL IN]
 —
 
 EstateDocPrep es una compañía de Asistentes de Documentos Legales (LDA) Registrada y Con Fianza en California — no somos abogados. No brindamos asesoría legal. Todos los documentos se preparan bajo su dirección.
-Registro LDA #2025242334, Condado de [FILL IN], Vence el [FILL IN]
+Registro LDA #2025242334, Condado de Ventura y Condado de Los Ángeles, Vence el [FILL IN]
 
 Este video es solo para fines educativos generales y no constituye asesoría legal. La situación de cada familia es diferente.
 
