@@ -1,0 +1,25 @@
+{
+  "episode_id": "edp-en-20260816-slot1",
+  "channel": "edp-en",
+  "language": "English",
+  "topic_title": "how-it-works: Comprehensive vs. Non-Comprehensive Living Trusts — What's the Real Difference?",
+  "topic_type": "how-it-works",
+  "production_slot": 1,
+  "cta": "Create your free account today at EstateDocPrep.com",
+  "disclaimer": "EstateDocPrep is living trust software backed by our Registered & Bonded LDA company in California — not attorneys, no legal advice, documents prepared at your direction.",
+  "intro": "Welcome back to the EstateDocPrep.com Podcast — helping you create a comprehensive living trust at a fraction of the cost of a law firm.",
+  "outro": "Thanks for listening. Create your free account at EstateDocPrep.com, and we will see you in the next episode.",
+  "voice": "Marco & Veronica",
+  "visual_style": "documentary",
+  "chapters": [],
+  "broll_requests": [],
+  "thumbnail_request": {
+    "requested": true,
+    "status": "pending"
+  },
+  "shorts_extraction": {
+    "requested": true,
+    "status": "pending"
+  },
+  "topic_queue_row_id": 1
+}
