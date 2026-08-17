@@ -21,5 +21,6 @@
     "requested": true,
     "status": "pending"
   },
-  "topic_queue_row_id": 1
+  "topic_queue_row_id": 1,
+  "script": ""
 }
